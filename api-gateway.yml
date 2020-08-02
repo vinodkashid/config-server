@@ -21,4 +21,4 @@ zuul:
       service-id: user-service
     task-service:
       path: /task-service/**
-       service-id: task-service
+      service-id: task-service
